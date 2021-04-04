@@ -2,7 +2,7 @@
 
 # Timezone switcher.
 # 
-# Valid timzones:
+# Valid timezones:
 #  - Asia/Manila (GMT +8)
 #       Philippine Standard Time (PST)
 #  - Europe/London 
